@@ -89,7 +89,7 @@ public class Question10 {
             System.out.println(" ");
             System.out.print("Choose another station? - 'Y' or 'N' : ");
             choose = input.next().charAt(0);
-            input.close();
+
 
             //when condition is true for do while loop, then above code will execute again
 
